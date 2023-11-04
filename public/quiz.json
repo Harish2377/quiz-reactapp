@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What is a state in React?",
+        "options": [
+            "A permanent storage.",
+            "Internal storage of the component.",
+            "External storage of the component.",
+            "None of the above."
+        ],
+        "answer": "Internal storage of the component."
+    },
+    {
+        "id": "02",
+        "question" : "Which of the following option is correct in the case of the Babel?",
+        "options": [
+            "Babel is a Compiler.",
+            "Babel is a Transpilar.",
+            "None of the above.",
+            "Both A and B are correct."
+        ],
+        "answer": "Both A and B are correct."
+    },
+    {
+        "id": "03",
+        "question" : "Which of the following function is used to change the state of the React.js component?",
+        "options": [
+            "this.setState",
+            "this.setChangeState",
+            "this.State{}",
+            "None of the above."
+        ],
+        "answer": "this.setState"
+    },
+    {
+        "id": "04",
+        "question" : "Which of the following command is used to install create-react-app?",
+        "options": [
+            "npm install -g create-react-app",
+            "npx create-react-app my-app",
+            "npm install create-react-app",
+            "npm install -f create-react-app"
+        ],
+        "answer": "npx create-react-app my-app"
+    },
+    {
+        "id": "05",
+        "question" : "What of the following is used in React.js to increase performance?",
+        "options": [
+            "Original DOM",
+            "Virtual DOM",
+            "Both A and B.",
+            "None of the above."
+        ],
+        "answer": "Virtual DOM"
+    },
+    {
+        "id": "06",
+        "question" : "What is the default port where webpack-server runs?",
+        "options": [
+            "3000",
+            "8080",
+            "3030",
+            "6060"
+        ],
+        "answer": "3000"
+    },
+    {
+        "id": "07",
+        "question" : "How many numbers of elements a valid react component can return?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "Unlimited"
+        ],
+        "answer": "1"
+    },
+    {
+        "id": "08",
+        "question" : " What does ES6 stand for?",
+        "options": [
+            "ECMAScript 6",
+            "ECMA 6",
+            "ECMAJavaScript 6",
+            "EJavaScript 6"
+        ],
+        "answer": "ECMAScript 6"
+    },
+    {
+        "id": "09",
+        "question" : "Which of the following is used to pass data to a component from outside in React.js?",
+        "options": [
+            "SetState",
+            "Render with arguments",
+            "Props",
+            "PropTypes"
+        ],
+        "answer": "Props"
+    },
+    {
+        "id": "10",
+        "question" : "What are the two ways to handle data in React?",
+        "options": [
+            "State & Props",
+            "Services & Components",
+            "State & Services",
+            "State & Component"
+        ],
+        "answer": "State & Props"
+    }
+]
